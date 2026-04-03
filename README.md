@@ -1,11 +1,7 @@
 <div align="center">
-██╗   ██╗███████╗███╗   ██╗ ██████╗ ███╗   ███╗██╗  ██╗██╗██╗   ██╗███████╗
-██║   ██║██╔════╝████╗  ██║██╔═══██╗████╗ ████║██║  ██║██║██║   ██║██╔════╝
-██║   ██║█████╗  ██╔██╗ ██║██║   ██║██╔████╔██║███████║██║██║   ██║█████╗
-╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗ ██╔╝██╔══╝
-╚████╔╝ ███████╗██║ ╚████║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████╔╝ ███████╗
-╚═══╝  ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══════╝
-**Trap them before they trap you.**
+<h1>VenomHive - Multi-Service Honeypot Framework</h1>
+  
+  **Trap them before they trap you.**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-red?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Linux-red?style=for-the-badge&logo=linux)
