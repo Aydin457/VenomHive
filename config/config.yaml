@@ -1,0 +1,27 @@
+venomhive:
+  version: "1.0"
+  author: "Aydin Yasinov"
+  github: "github.com/Aydin457"
+
+services:
+  ssh:
+    enabled: true
+    port: 2222
+
+  http:
+    enabled: true
+    port: 8080
+
+  ftp:
+    enabled: true
+    port: 2121
+
+logging:
+  db_file: "data/venomhive.db"
+  ssh_log: "data/ssh_attempts.log"
+  http_log: "data/http_attempts.log"
+  ftp_log: "data/ftp_attempts.log"
+  export_json: "data/export.json"
+
+alerts:
+  threshold: 10
